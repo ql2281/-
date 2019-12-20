@@ -1,77 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4494de5-7cae-4493-8f9d-069cea771cbd" name="Default Changelist" comment="onsite面试前复习资料">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/BuilderPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/CheckCycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternBuilder/BuilderPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternBuilder/User$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternBuilder/User$UserBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternBuilder/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternFactory/MethodCircleFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternFactory/MethodFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternFactory/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternFactory/ShapeCircle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternFactory/ShapeFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternFactory/ShapeFactoryDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternFactory/ShapeSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/DesignPatternSingleton/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/META-INF/test.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/MyHeap/minHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/MyHeap/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/MyMap/Cell.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/MyMap/MyHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/MyQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/OOD/PokerGame/BlackJackHand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/OOD/PokerGame/Card.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/OOD/PokerGame/Deck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/OOD/PokerGame/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/OOD/PokerGame/Hand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/OOD/PokerGame/Suit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/SerializeAndDeserializeBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/User$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/User$UserBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/ZongHeYanLian/Deduplicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/ZongHeYanLian/MoveZeros.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternBuilder/BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternBuilder/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternFactory/MethodCircleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternFactory/MethodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternFactory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternFactory/ShapeCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternFactory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternFactory/ShapeFactoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternFactory/ShapeSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatternSingleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyHeap/minHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyHeap/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyMap/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyMap/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOD/PokerGame/BlackJackHand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOD/PokerGame/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOD/PokerGame/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOD/PokerGame/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOD/PokerGame/Hand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOD/PokerGame/Suit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SerializeAndDeserializeBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZongHeYanLian/Deduplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZongHeYanLian/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+    <list default="true" id="d4494de5-7cae-4493-8f9d-069cea771cbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ZongHeYanLian/DeduplicateLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,8 +168,16 @@
       <workItem from="1574917071388" duration="14889000" />
       <workItem from="1575754452163" duration="23395000" />
       <workItem from="1576262688143" duration="5761000" />
-      <workItem from="1576627928733" duration="33282000" />
+      <workItem from="1576627928733" duration="36993000" />
     </task>
+    <task id="LOCAL-00001" summary="onsite面试前复习资料">
+      <created>1576794325016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576794325016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,46 +192,50 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="453" y="119" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576713277434" />
-    <state x="218" y="23" key="CommitChangelistDialog2" timestamp="1576794277325">
+    <state x="218" y="23" key="CommitChangelistDialog2" timestamp="1576794324267">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="218" y="23" key="CommitChangelistDialog2/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794277325" />
+    <state x="218" y="23" key="CommitChangelistDialog2/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794324267" />
     <state x="420" y="160" key="FileChooserDialogImpl" timestamp="1576793716502">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="420" y="160" key="FileChooserDialogImpl/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576793716502" />
-    <state width="1238" height="197" key="GridCell.Tab.0.bottom" timestamp="1576794277575">
+    <state x="439" y="334" key="Github.CreateGistDialog" timestamp="1576794794258">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794277575" />
-    <state width="1238" height="197" key="GridCell.Tab.0.center" timestamp="1576794277573">
+    <state x="439" y="334" key="Github.CreateGistDialog/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794794258" />
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom" timestamp="1576794926820">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="197" key="GridCell.Tab.0.center/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794277573" />
-    <state width="1238" height="197" key="GridCell.Tab.0.left" timestamp="1576794277572">
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794926820" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center" timestamp="1576794926819">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="197" key="GridCell.Tab.0.left/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794277572" />
-    <state width="1238" height="197" key="GridCell.Tab.0.right" timestamp="1576794277574">
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794926819" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left" timestamp="1576794926817">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="197" key="GridCell.Tab.0.right/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794277574" />
-    <state width="1238" height="245" key="GridCell.Tab.1.bottom" timestamp="1576731952207">
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794926817" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right" timestamp="1576794926820">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="245" key="GridCell.Tab.1.bottom/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576731952207" />
-    <state width="1238" height="245" key="GridCell.Tab.1.center" timestamp="1576731952204">
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794926820" />
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom" timestamp="1576794342658">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="245" key="GridCell.Tab.1.center/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576731952204" />
-    <state width="1238" height="245" key="GridCell.Tab.1.left" timestamp="1576731952203">
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794342658" />
+    <state width="1238" height="245" key="GridCell.Tab.1.center" timestamp="1576794342657">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="245" key="GridCell.Tab.1.left/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576731952203" />
-    <state width="1238" height="245" key="GridCell.Tab.1.right" timestamp="1576731952206">
+    <state width="1238" height="245" key="GridCell.Tab.1.center/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794342657" />
+    <state width="1238" height="245" key="GridCell.Tab.1.left" timestamp="1576794342657">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="245" key="GridCell.Tab.1.right/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576731952206" />
+    <state width="1238" height="245" key="GridCell.Tab.1.left/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794342657" />
+    <state width="1238" height="245" key="GridCell.Tab.1.right" timestamp="1576794342658">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.right/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1576794342658" />
     <state x="310" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1576628047006">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
